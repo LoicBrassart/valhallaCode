@@ -1,0 +1,12 @@
+:root {
+  --colorMain: #9cf;
+  --colorSecond: gray;
+  --colorSplash: yellowgreen;
+  --colorFontLight: white;
+  --colorFontDark: black;
+
+  --sizeHeader: 6rem;
+  --sizeMain: calc(100vh - 2 * var(--sizeHeader));
+
+  --space: 2rem;
+}

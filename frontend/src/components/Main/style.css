@@ -1,0 +1,9 @@
+main {
+  min-height: var(--sizeMain);
+  font-size: 8em;
+}
+
+main section {
+  display: flex;
+  flex-flow: row wrap;
+}
