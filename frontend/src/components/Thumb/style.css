@@ -1,0 +1,6 @@
+article {
+  width: 10rem;
+  background-color: darkgoldenrod;
+  aspect-ratio: 16/9;
+  margin: var(--space);
+}

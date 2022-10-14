@@ -1,0 +1,23 @@
+header {
+  background-color: var(--colorMain);
+  color: var(--colorFontLight);
+  height: var(--sizeHeader);
+  justify-content: space-between;
+}
+header ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+header li {
+  margin: var(--space);
+}
+header nav,
+header ul {
+  height: 100%;
+}
+
+header .icon {
+  font-size: var(--sizeHeader);
+  margin-left: var(--space);
+}
